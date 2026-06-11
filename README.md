@@ -12,6 +12,7 @@ USDT
 TRX
 
 ## General API Information
+* The base endpoint for **AZAR** is: **https://ankerpay.com/api/v1/AZAR/pos**
 * The base endpoint for **BTC** is: **https://ankerpay.com/api/v1/BTC/pos**
 * The base endpoint for **ETH** is: **https://ankerpay.com/api/v1/ETH/pos**
 * The base endpoint for **USDC** is: **https://ankerpay.com/api/v1/USDC/pos**

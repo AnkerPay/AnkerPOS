@@ -4,20 +4,20 @@ AnkerPOS APIs allow for simple integration into current and existing payment pro
 # Public Rest API for AnkerPOS
 
 ## Available coins
+AZAR
 BTC
-Bitcoin Lightning
 ETH
 USDC
 USDT
 TRX
 
 ## General API Information
-* The base endpoint for **AZAR** is: **https://ankerpay.com/api/v1/AZAR/pos**
-* The base endpoint for **BTC** is: **https://ankerpay.com/api/v1/BTC/pos**
-* The base endpoint for **ETH** is: **https://ankerpay.com/api/v1/ETH/pos**
-* The base endpoint for **USDC** is: **https://ankerpay.com/api/v1/USDC/pos**
-* The base endpoint for **USDT** is: **https://ankerpay.com/api/v1/USDT/pos**
-* The base endpoint for **TRX** is: **https://ankerpay.com/api/v1/TRX/pos**
+* The base endpoint for **AZAR** is: **https://ankerpay.com/api/v2/AZAR/pos**
+* The base endpoint for **BTC** is: **https://ankerpay.com/api/v2/BTC/pos**
+* The base endpoint for **ETH** is: **https://ankerpay.com/api/v2/ETH/pos**
+* The base endpoint for **USDC** is: **https://ankerpay.com/api/v2/USDC/pos**
+* The base endpoint for **USDT** is: **https://ankerpay.com/api/v2/USDT/pos**
+* The base endpoint for **TRX** is: **https://ankerpay.com/api/v2/TRX/pos**
 * All endpoints return either a JSON object or array.
 * Data is returned in **ascending** order. Oldest first, newest last.
 * All time and timestamp related fields are in **seconds**.

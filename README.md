@@ -13,7 +13,6 @@ TRX
 
 ## General API Information
 * The base endpoint for **BTC** is: **https://ankerpay.com/api/v1/BTC/pos**
-* The base endpoint for **Bitcoin Lightning** is: **https://ankerpay.com/lightning/api/v1/pos**
 * The base endpoint for **ETH** is: **https://ankerpay.com/api/v1/ETH/pos**
 * The base endpoint for **USDC** is: **https://ankerpay.com/api/v1/USDC/pos**
 * The base endpoint for **USDT** is: **https://ankerpay.com/api/v1/USDT/pos**
